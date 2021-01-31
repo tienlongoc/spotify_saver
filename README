@@ -1,0 +1,10 @@
+python3 spotify_saver.py
+
+Click on the generated link, which will take you to a Spotify auth page, to give our app read access.
+
+A csv file will be generated on server side containing your Spotify "liked" songs.
+
+Front end will be redirected to a locally hosted link which will let you download your file.
+
+
+This works on my GCP server but there is no error handling :shrug:
